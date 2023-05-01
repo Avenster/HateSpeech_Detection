@@ -4,3 +4,4 @@ joblib==1.2.0
 scikit_learn==1.0.2
 flask==2.2.3
 nltk==3.8.1
+imblearn=0.0
