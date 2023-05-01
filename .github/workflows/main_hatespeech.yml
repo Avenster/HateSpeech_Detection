@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'HateSpeech'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_45CC90C143F6405EAEF2BAA74FFFAC81 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2297DD6B427145FFA417D7779BF0EFF7 }}
